@@ -1,0 +1,138 @@
+---
+title: "Réseau des lettres dans Les liaisons dangereuses"
+author: "Steven Kalt"
+date: "12/22/2015"
+output: html_document
+---
+
+```{r imports, echo=FALSE, message=FALSE}
+# this block imports all of the neccessary packages
+library(igraph)
+library(networkD3)
+library(ndtv)
+library(networkDynamic)
+library(dplyr)
+```
+```{r load main graph, echo=FALSE}
+# load the edgelist of letter interactions.  This data.frame 
+# has  the following variables:
+# "Source", "Target", "LetterNumber", all of which should be self-
+# explanatory
+# "href" a link to the letter in question
+# "tu"  the number of times 'tu' is used in the letter
+# "vous"  the number of times 'vous' is used in the letter
+# "wordcount",
+# "commas" the number of commas in the 
+# "meanSentenceLength"
+# "medianSentenceLength"
+# 
+# not all of these variables will be used.  
+
+el <- read.delim("./LiaisonsDangereusesEdgelist.tsv",
+                 stringsAsFactors = F)
+# consolidate several names which should have been fixed in the Python
+# scraper but for some reason aren't.  
+el$Source[el$Source == "MADAME DE MERTEUIL"] <- "MARQUISE DE MERTEUIL"
+el$Target[el$Target == "MADAME DE MERTEUIL"] <- "MARQUISE DE MERTEUIL"
+el$Source[el$Source == "LA PRÉSIDENTE TOURVEL"] <- "MADAME TOURVEL"
+el$Target[el$Target == "LA PRÉSIDENTE TOURVEL"] <- "MADAME TOURVEL"
+el$Source[el$Source == "MADAME VOLANGES"] <- "MADAME DE VOLANGES"
+el$Target[el$Target == "MADAME VOLANGES"] <- "MADAME DE VOLANGES"
+
+el$n.letters <- 1
+e2 <- as.data.frame(summarise(group_by(el, Source, Target),
+                              n.letters = sum(n.letters)))
+g <- network(e2, matrix.type="edgelist") # create a graph (network) object
+# from the edgelist
+```
+```{r, include=FALSE}
+# This block constructs a data.frame of "edge spells" giving the cumulative number of words or other variables of interest at that time.
+
+# initialize an empty data.frame
+changes <- data.frame(time = numeric(), Source = character(),
+                      Target = character(),
+                      c.tu = double(), c.vous = double(),
+                      c.wordcount = double(), n.letters <- double())
+
+# iterate through each letter, creating a new set of variables 
+# for each edge and appending the new "edge spells" to the empty "changes"
+# data.frame
+for (j in 1:nrow(el)){
+  present <- el[1:j,]
+  new <- as.data.frame(summarise(group_by(present, Source, Target),
+                                 c.tu = sum(tu), c.vous = sum(vous),
+                                 c.wordcount= sum(wordcount),
+                                 n.letters = sum(n.letters)))
+  new$time <- j
+  changes <- rbind(changes, new)
+  }
+
+# find only unique edge states in the "changes" dataframe
+changes2 <- summarise(group_by(changes, Source, Target, c.tu, c.vous,
+                               c.wordcount, n.letters),
+                      onset = min(time), terminus = max(time) + 1)
+changes3 <- changes2[,c(7,8,1,2,3:6)] # filter down to the relevant
+# variables: "onset", "terminus", "Source", "Target",
+# "c.tu" cumulative 'tu's from Source to Target
+# "c.vous" cumulative 'vous's from Source to Target
+# "c.wordcount" cumulative wordcount from Source to Target
+# "n.letters" cumulative number of letters from Source to Target
+
+# replace Source and Target name strings (such as 'VALMONT') with the 
+# numeric vertex ids 'networkDynamic' expects
+changes3$Source <- match(changes3$Source, network.vertex.names(g))
+changes3$Target <- match(changes3$Target, network.vertex.names(g))
+changes3 <- as.data.frame(changes3)
+changes3 <- changes3[order(changes3$onset),]
+```
+
+```{r movie1, echo = FALSE, message=FALSE, include=FALSE}
+g2 <- networkDynamic(g, edge.spells=changes3, create.TEAs = T,
+                     edge.TEA.names = names(changes3[,5:8]))
+
+compute.animation(g2, animation.mode = "kamadakawai",
+                  weight.attr = "activity.count",
+                  slice.par=list(start=0, end=176, interval=1,
+                                 aggregate.dur=1, rule='latest'))
+render.d3movie(g2,
+               displaylabels = T,
+               label= g2 %v% "vertex.names",
+               # vertex.cex =
+               vertex.tooltip = g2 %v% "vertex.names",
+               launchBrowser=F,
+               filename="LiaisonsNetwork.html", output.mode='HTML'
+               )
+```
+
+
+```{r, echo=FALSE}
+# not everyone can see everything.  Some steal letters, as does the 
+BonusAccessToLetters <- list("VICOMTE DE VALMONT" = c(64,
+                                                      65,
+                                                      72,
+                                                      86,
+                                                      117),
+                             "MARQUISE DE MERTEUIL" = c(60,
+                                                        64,
+                                                        65,
+                                                        101),
+                             "MADAME DE VOLANGES" = which(
+                               el[1:59,]$Target == "CÉCILE VOLANGES")
+)
+
+
+for (i in c("VICOMTE DE VALMONT", "MARQUISE DE MERTEUIL",
+            "MADAME DE VOLANGES", "MADAME TOURVEL",
+            "CHEVALIER DANCENY","CÉCILE VOLANGES" )){
+  
+  elTemp <- el[el$Source == i | el$Target == i,]
+  elTemp <- rbind(elTemp, el[BonusAccessToLetters[[i]],])
+  g1 <- graph.data.frame(elTemp)
+  l <- layout.fruchterman.reingold(g1)
+  plot(g1, layout= layout.fruchterman.reingold(g1) * 100, vertex.size=5,
+      vertex.label.dist=0, vertex.color="red", edge.arrow.size=0.1)
+}
+```
+
+
+

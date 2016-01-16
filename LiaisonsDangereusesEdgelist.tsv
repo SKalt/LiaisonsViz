@@ -1,0 +1,177 @@
+Source	Target	LetterNumber	href	tu	vous	wordcount	commas	meanSentenceLength	medianSentenceLength
+CÉCILE VOLANGES	SOPHIE CARNAY	1	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_1	3	0	737	52	18.82051282051282	15.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	2	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_2	0	21	608	42	27.636363636363637	24.5
+CÉCILE VOLANGES	SOPHIE CARNAY	3	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_3	0	1	385	18	16.695652173913043	12.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	4	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_4	0	17	771	54	22.676470588235293	20.5
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	5	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_5	0	32	826	60	25.0	23.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	6	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_6	0	14	1017	72	19.11320754716981	19.0
+CÉCILE VOLANGES	SOPHIE CARNAY	7	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_7	0	2	344	20	17.2	16.0
+MADAME TOURVEL	MADAME DE VOLANGES	8	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_8	0	9	488	30	21.217391304347824	20.0
+MADAME DE VOLANGES	MADAME TOURVEL	9	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_9	0	20	721	50	25.75	23.5
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	10	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_10	0	36	1676	135	21.487179487179485	18.5
+MADAME TOURVEL	MADAME DE VOLANGES	11	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_11	0	11	792	58	20.307692307692307	20.0
+CÉCILE VOLANGES	MARQUISE DE MERTEUIL	12	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_12	0	5	125	7	15.625	8.5
+MARQUISE DE MERTEUIL	CÉCILE VOLANGES	13	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_13	0	3	140	13	14.0	9.5
+CÉCILE VOLANGES	SOPHIE CARNAY	14	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_14	1	0	479	31	19.958333333333332	16.5
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	15	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_15	0	13	590	46	23.6	18.0
+CÉCILE VOLANGES	SOPHIE CARNAY	16	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_16	4	0	728	50	21.41176470588235	21.5
+CHEVALIER DANCENY	CÉCILE VOLANGES	17	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_17	0	23	361	32	19.05263157894737	15.0
+CÉCILE VOLANGES	SOPHIE CARNAY	18	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_18	11	2	903	55	17.705882352941178	14.0
+CÉCILE VOLANGES	CHEVALIER DANCENY	19	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_19	0	17	218	15	19.818181818181817	19.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	20	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_20	0	18	692	60	23.066666666666666	20.5
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	21	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_21	0	7	1001	78	25.025	19.5
+MADAME TOURVEL	MADAME DE VOLANGES	22	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_22	0	6	649	57	25.96	19.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	23	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_23	0	24	1565	128	22.04225352112676	19.0
+VICOMTE DE VALMONT	MADAME TOURVEL	24	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_24	0	31	573	37	44.07692307692308	41.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	25	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_25	0	4	551	38	27.55	26.0
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	26	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_26	0	41	631	58	39.4375	37.5
+CÉCILE VOLANGES	MADAME DE MERTEUIL	27	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_27	0	28	771	68	35.04545454545455	30.0
+CHEVALIER DANCENY	CÉCILE VOLANGES	28	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_28	0	20	442	24	49.111111111111114	34.0
+CÉCILE VOLANGES	SOPHIE CARNAY	29	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_29	0	0	509	34	28.27777777777778	22.5
+CÉCILE VOLANGES	CHEVALIER DANCENY	30	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_30	0	27	327	26	25.153846153846153	22.0
+CHEVALIER DANCENY	CÉCILE VOLANGES	31	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_31	0	16	380	27	34.54545454545455	18.0
+MADAME DE VOLANGES	MADAME TOURVEL	32	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_32	0	24	963	83	26.027027027027028	20.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	33	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_33	0	24	781	51	26.93103448275862	21.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	34	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_34	0	10	1195	95	22.14814814814815	18.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	35	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_35	0	49	794	63	27.379310344827587	20.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	36	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_36	0	33	927	71	23.2	20.5
+LA PRÉSIDENTE TOURVEL	MADAME DE VOLANGES	37	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_37	0	5	410	37	24.11764705882353	23.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	38	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_38	0	11	648	44	27.0	20.0
+CÉCILE VOLANGES	SOPHIE CARNAY	39	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_39	3	0	612	40	18.515151515151516	16.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	40	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_40	0	14	808	63	25.25	22.5
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	41	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_41	0	26	537	49	41.30769230769231	38.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	42	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_42	0	25	493	33	32.86666666666667	25.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	43	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Suite_de_la_lettre_40	0	2	630	47	30.0	29.0
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	44	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_43	0	33	487	33	40.583333333333336	37.5
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	45	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_44	0	15	2285	169	27.202380952380953	24.0
+LA PRÉSIDENTE TOURVEL	MADAME DE VOLANGES	46	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_45	0	10	279	12	23.25	22.5
+CHEVALIER DANCENY	CÉCILE VOLANGES	47	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_46	0	24	463	48	33.07142857142857	27.5
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	48	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_47	0	10	662	53	23.642857142857142	21.5
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	49	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_48	0	19	603	47	31.736842105263158	31.0
+CÉCILE VOLANGES	CHEVALIER DANCENY	50	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_49	0	17	349	22	29.083333333333332	27.5
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	51	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_50	0	22	545	39	54.5	40.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	52	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_51	0	19	986	64	28.17142857142857	23.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	53	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_52	0	44	877	78	62.642857142857146	40.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	54	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_53	0	4	236	19	21.454545454545453	15.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	55	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_54	0	2	659	50	27.5	23.5
+CÉCILE VOLANGES	SOPHIE CARNAY	56	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_55	9	0	634	52	28.818181818181817	23.0
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	57	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_56	0	30	587	44	24.458333333333332	14.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	58	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_57	0	17	724	60	30.166666666666668	25.5
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	59	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_58	0	40	675	49	32.142857142857146	24.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	60	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_59	0	6	260	19	20.0	16.0
+CHEVALIER DANCENY	VICOMTE DE VALMONT	61	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_60	0	14	229	14	19.083333333333332	19.0
+CÉCILE VOLANGES	SOPHIE CARNAY	62	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_61	1	0	553	35	19.75	15.0
+MADAME DE VOLANGES	CHEVALIER DANCENY	63	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_62	0	13	227	19	22.7	19.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	64	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_63	0	29	2352	189	29.049382716049383	26.0
+CHEVALIER DANCENY	MADAME DE VOLANGES	65	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_64	0	40	956	79	25.157894736842106	22.5
+CHEVALIER DANCENY	CÉCILE VOLANGES	66	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_65	0	31	624	40	22.285714285714285	17.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	67	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_66	0	3	535	32	24.318181818181817	22.0
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	68	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_67	0	26	443	31	31.642857142857142	30.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	69	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_68	0	38	615	61	32.36842105263158	26.0
+CÉCILE VOLANGES	CHEVALIER DANCENY	70	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_69	0	6	189	8	17.181818181818183	15.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	71	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_70	0	14	911	75	26.02857142857143	27.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	72	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_71	0	15	1535	114	28.9811320754717	24.0
+CHEVALIER DANCENY	CÉCILE VOLANGES	73	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_72	0	21	438	35	19.90909090909091	19.0
+VICOMTE DE VALMONT	CÉCILE VOLANGES	74	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_73	0	21	240	18	30.0	28.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	75	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_74	0	30	830	55	25.9375	20.0
+CÉCILE VOLANGES	SOPHIE CARNAY	76	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_75	0	0	481	31	20.041666666666668	18.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	77	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_76	0	39	2133	159	30.47142857142857	27.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	78	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_77	0	23	532	40	88.66666666666667	57.0
+LA PRÉSIDENTE TOURVEL	VICOMTE DE VALMONT	79	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_78	0	52	1052	90	36.275862068965516	35.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	80	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_79	0	27	2478	204	26.934782608695652	22.0
+CHEVALIER DANCENY	CÉCILE VOLANGES	81	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_80	0	25	746	64	21.941176470588236	19.5
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	82	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_81	0	58	3754	308	34.440366972477065	28.0
+CÉCILE VOLANGES	CHEVALIER DANCENY	83	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_82	0	30	814	55	27.133333333333333	24.5
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	84	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_83	0	38	945	76	52.5	36.0
+VICOMTE DE VALMONT	CÉCILE VOLANGES	85	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_84	0	38	947	72	23.675	22.5
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	86	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_85	0	47	3566	300	24.620689655172413	20.0
+MARÉCHALE DE ***	MARQUISE DE MERTEUIL	87	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_86	0	8	216	13	24.0	24.0
+MARQUISE DE MERTEUIL	MADAME DE VOLANGES	88	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_87	0	13	929	71	22.11904761904762	20.5
+CÉCILE VOLANGES	VICOMTE DE VALMONT	89	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_88	0	13	461	42	23.05	21.5
+VICOMTE DE VALMONT	CHEVALIER DANCENY	90	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_89	0	16	397	23	23.352941176470587	26.0
+MADAME TOURVEL	VICOMTE DE VALMONT	91	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_90	0	29	791	75	35.95454545454545	32.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	92	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_91	0	27	634	59	30.19047619047619	19.0
+CHEVALIER DANCENY	VICOMTE DE VALMONT	93	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_92	0	12	529	36	20.346153846153847	14.5
+CHEVALIER DANCENY	CÉCILE VOLANGES	94	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_93	0	26	499	35	29.352941176470587	31.0
+CÉCILE VOLANGES	CHEVALIER DANCENY	95	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_94	0	34	545	37	28.68421052631579	19.0
+CÉCILE VOLANGES	VICOMTE DE VALMONT	96	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_95	0	21	359	24	23.933333333333334	24.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	97	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_96	0	29	2053	177	29.32857142857143	21.5
+CÉCILE VOLANGES	MARQUISE DE MERTEUIL	98	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_97	0	20	1101	80	22.46938775510204	18.0
+MADAME DE VOLANGES	MARQUISE DE MERTEUIL	99	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_98	0	7	1091	72	32.088235294117645	25.5
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	100	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_99	0	18	2248	184	29.194805194805195	25.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	101	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_100	0	9	1322	100	36.72222222222222	27.5
+VICOMTE DE VALMONT	AZOLAN	102	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_101	0	34	742	49	25.586206896551722	18.0
+MADAME TOURVEL	MADAME DE ROSEMONDE	103	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_102	0	15	927	60	29.903225806451612	15.0
+MADAME DE ROSEMONDE	LA PRÉSIDENTE TOURVEL	104	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_103	0	28	628	36	22.428571428571427	18.5
+MARQUISE DE MERTEUIL	MADAME DE VOLANGES	105	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_104	0	29	1771	147	35.44	30.0
+MARQUISE DE MERTEUIL	CÉCILE VOLANGES	106	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_105	0	99	1536	125	30.72	27.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	107	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_106	0	37	1260	97	32.30769230769231	28.0
+AZOLAN	VICOMTE DE VALMONT	108	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_107	0	1	1274	85	24.980392156862745	23.0
+MADAME TOURVEL	MADAME DE ROSEMONDE	109	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_108	0	11	776	49	29.846153846153847	23.0
+CÉCILE VOLANGES	MARQUISE DE MERTEUIL	110	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_109	0	14	774	50	24.1875	21.5
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	111	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_110	0	8	1583	117	31.03921568627451	27.0
+COMTE DE GERCOURT	MADAME DE VOLANGES	112	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_111	0	7	279	21	18.6	19.0
+MADAME DE ROSEMONDE	LA PRÉSIDENTE TOURVEL	113	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_112	0	12	328	31	20.5	19.5
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	114	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_113	0	64	2212	168	30.301369863013697	27.0
+LA PRÉSIDENTE TOURVEL	MADAME DE ROSEMONDE	115	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_114	0	13	489	39	28.764705882352942	28.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	116	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_115	0	46	1586	150	32.38775510204081	24.0
+CHEVALIER DANCENY	CÉCILE VOLANGES	117	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_116	0	17	574	40	24.956521739130434	19.0
+CÉCILE VOLANGES	CHEVALIER DANCENY	118	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_117	0	24	521	41	28.944444444444443	19.5
+CHEVALIER DANCENY	MARQUISE DE MERTEUIL	119	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_118	0	27	813	68	30.11111111111111	24.0
+MADAME DE ROSEMONDE	LA PRÉSIDENTE TOURVEL	120	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_119	0	9	297	19	19.8	16.0
+VICOMTE DE VALMONT	PÈRE ANSELME	121	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_120	0	9	412	40	45.77777777777778	35.0
+MARQUISE DE MERTEUIL	CHEVALIER DANCENY	122	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_121	0	43	822	66	34.25	33.5
+MADAME DE ROSEMONDE	LA PRÉSIDENTE TOURVEL	123	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_122	0	16	866	74	29.93103448275862	24.0
+PÈRE ANSELME	VICOMTE DE VALMONT	124	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_123	0	16	394	36	32.833333333333336	30.0
+MADAME TOURVEL	MADAME DE ROSEMONDE	125	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_124	0	13	1089	85	25.325581395348838	19.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	126	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_125	0	50	3414	291	29.95614035087719	26.0
+MADAME DE ROSEMONDE	LA PRÉSIDENTE TOURVEL	127	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_126	0	31	729	67	40.5	35.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	128	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_127	0	31	605	65	30.25	25.0
+MADAME TOURVEL	MADAME DE ROSEMONDE	129	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_128	0	6	449	35	17.96	16.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	130	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_129	0	26	865	70	41.19047619047619	33.0
+MADAME DE ROSEMONDE	LA PRÉSIDENTE TOURVEL	131	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_130	0	10	741	73	41.166666666666664	34.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	132	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_131	0	22	771	69	42.833333333333336	43.5
+MADAME TOURVEL	MADAME DE ROSEMONDE	133	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_132	0	9	558	50	37.2	29.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	134	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_133	0	17	1153	105	31.16216216216216	28.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	135	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_134	0	44	1081	94	31.794117647058822	25.0
+MADAME TOURVEL	MADAME DE ROSEMONDE	136	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_135	0	11	826	63	25.8125	21.0
+MADAME TOURVEL	VICOMTE DE VALMONT	137	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_136	0	14	236	19	33.714285714285715	16.0
+VICOMTE DE VALMONT	LA PRÉSIDENTE TOURVEL	138	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_137	0	37	1147	79	34.75757575757576	28.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	139	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_138	0	10	709	58	29.583333333333332	24.5
+MADAME TOURVEL	MADAME DE ROSEMONDE	140	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_139	0	8	374	30	37.4	18.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	141	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_140	0	9	804	56	36.54545454545455	36.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	142	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_141	1	36	1096	95	30.416666666666668	20.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	143	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_142	0	6	349	34	31.727272727272727	33.0
+MADAME TOURVEL	MADAME DE ROSEMONDE	144	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_143	0	1	228	19	13.411764705882353	13.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	145	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_144	0	9	975	80	30.46875	27.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	146	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_145	0	41	708	60	30.782608695652176	27.0
+MARQUISE DE MERTEUIL	CHEVALIER DANCENY	147	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_146	0	16	438	33	21.9	21.0
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	148	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_147	0	5	1168	103	27.952380952380953	23.0
+CHEVALIER DANCENY	MADAME DE MERTEUIL	149	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_148	6	7	503	43	27.944444444444443	23.0
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	150	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_149	0	10	1110	89	29.31578947368421	27.0
+CHEVALIER DANCENY	MARQUISE DE MERTEUIL	151	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_150	11	0	740	65	41.111111111111114	33.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	152	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_151	0	30	819	60	30.333333333333332	26.0
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	153	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_152	0	46	942	66	24.789473684210527	19.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	154	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_153	0	18	378	20	29.153846153846153	31.0
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	155	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_154	0	5	266	18	17.733333333333334	14.0
+VICOMTE DE VALMONT	CHEVALIER DANCENY	156	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_155	0	44	1111	111	32.6764705882353	28.5
+CÉCILE VOLANGES	CHEVALIER DANCENY	157	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_156	0	38	625	47	32.89473684210526	31.0
+CHEVALIER DANCENY	VICOMTE DE VALMONT	158	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_157	0	7	449	29	23.68421052631579	20.0
+VICOMTE DE VALMONT	MARQUISE DE MERTEUIL	159	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_158	0	17	445	33	37.083333333333336	43.5
+MARQUISE DE MERTEUIL	VICOMTE DE VALMONT	160	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_159	0	5	93	4	18.6	20.0
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	161	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_160	0	7	311	21	18.294117647058822	15.0
+MADAME TOURVEL	…	162	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_161	6	6	706	36	20.17142857142857	16.0
+CHEVALIER DANCENY	VICOMTE DE VALMONT	163	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_162	0	8	155	12	17.22222222222222	11.0
+MONSIEUR BERTRAND	MADAME DE ROSEMONDE	164	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_163	0	11	603	48	17.257142857142856	14.0
+MADAME DE ROSEMONDE	MONSIEUR BERTRAND	165	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_164	0	10	267	20	20.53846153846154	23.0
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	166	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_165	0	9	1170	83	29.3	24.0
+MONSIEUR BERTRAND	MADAME DE ROSEMONDE	167	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_166	0	5	222	19	20.181818181818183	19.0
+ANONYME	CHEVALIER DANCENY	168	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_167	0	13	233	21	17.923076923076923	19.0
+MADAME VOLANGES	MADAME DE ROSEMONDE	169	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_168	0	8	879	77	25.852941176470587	23.5
+CHEVALIER DANCENY	MADAME DE ROSEMONDE	170	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_169	0	25	845	84	24.852941176470587	22.5
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	171	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_170	0	6	906	67	31.24137931034483	28.0
+MADAME DE ROSEMONDE	CHEVALIER DANCENY	172	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_171	0	24	544	39	36.266666666666666	39.0
+MADAME DE ROSEMONDE	MADAME DE VOLANGES	173	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_172	0	22	446	33	44.6	43.5
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	174	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_173	0	18	1046	85	28.243243243243242	27.0
+CHEVALIER DANCENY	MADAME DE ROSEMONDE	175	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_174	0	12	560	48	32.94117647058823	25.0
+MADAME DE VOLANGES	MADAME DE ROSEMONDE	176	fr.wikisource.org/wiki/Les_Liaisons_dangereuses/Lettre_175	0	4	585	42	23.4	18.0
